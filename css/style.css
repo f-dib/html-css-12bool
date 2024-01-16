@@ -7,12 +7,39 @@
 
 [class*="col-"] {
     border: 1px solid white;
+    text-align: center;
+    color: white;
+
+    padding: 20px;
+}
+
+.pad-0 {
+    padding: 0px;
+}
+
+.pad-20 {
+    padding: 20px;
 }
 
 .mb-30 {
     margin-bottom: 30px;
 }
 
+.height-140{
+    height: 140px;
+}
+
+.height-70 {
+    height: 70px;
+}
+
+.bg-blue {
+    background-color: #006cfa;
+}
+
+.bg-green {
+    background-color: #00e165;
+}
 
 /************************************************
     SITE SECTIONS
