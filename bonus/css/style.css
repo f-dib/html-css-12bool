@@ -1,0 +1,51 @@
+/************************************************
+    UTILITIES
+************************************************/
+.container {
+    max-width: 417px;
+    
+
+    padding: 0px;
+}
+
+.row {
+    flex-wrap: nowrap;
+}
+
+[class*="col-"] {
+    height: 26.5px;
+    border: 1px solid black;
+}
+
+/* color section */
+.bg-lightpurple{
+    background-color: #dbb6fc;
+}
+
+.bg-purple {
+    background-color: #936896;
+}
+
+.bg-darkpurple{
+    background-color: #4b1f59;
+}
+
+.bg-grey {
+    background-color: #747c82;
+}
+
+.bg-black {
+    background-color: #383838;
+}
+
+.bg-shadow {
+    background-color: #cfa663;
+}
+
+.bg-skin {
+    background-color: #f7d9a8;
+}
+
+.bg-white {
+    background-color: #ffffff;
+}
